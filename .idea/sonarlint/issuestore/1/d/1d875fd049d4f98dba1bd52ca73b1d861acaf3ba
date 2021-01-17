@@ -1,0 +1,9 @@
+
+X
+java:S1710 "<Remove the 'NamedQueries' wrapper from this annotation group(Æ¡¦l8ª´òáğ.
+j
+java:S1128"HRemove this unused import 'org.hibernate.annotations.CreationTimestamp'.(¡œøÀúÿÿÿÿ8“¼½şğ.
+h
+java:S1128"FRemove this unused import 'org.hibernate.annotations.UpdateTimestamp'.(Ñµ¬Ûúÿÿÿÿ8Ş×ÿğ.
+Z
+java:S1128"8Remove this unused import 'org.joda.time.LocalDateTime'.(ç¬Ÿùÿÿÿÿ8Àáÿğ.

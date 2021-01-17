@@ -1,0 +1,13 @@
+
+d
+java:S1128"BRemove this unused import 'javax.validation.constraints.NotBlank'.(µγ‡ύÿÿÿÿ8βΐ‚έπ.
+^
+java:S1128"BRemove this unused import 'javax.validation.constraints.NotEmpty'.(ÿÿφr8βΐ‚έπ.
+g
+java:S1128"JRemove this unused import 'com.fasterxml.jackson.annotation.JsonProperty'.(ΛΓ§Ο8βΐ‚έπ.
+c
+java:S1128"ARemove this unused import 'javax.validation.constraints.NotNull'.(αη¥γόÿÿÿÿ8υήσάπ.
+H
+java:S1128"+Remove this unused import 'lombok.Builder'.(§’Πί8―©‹επ.
+J
+java:S1128"(Remove this unused import 'lombok.Data'.(χν«ÿÿÿÿÿ8ªπ†επ.
