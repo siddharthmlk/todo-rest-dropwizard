@@ -3,11 +3,11 @@
 A simple todo application implemented using Dropwizard framework.
 It exposes _todo_ resource with following endpoints:
 
-* GET /todos → Returns a list of all Todos
-* POST /todos → Creates a Todo and returns a Todo with id
-* GET /todos/{id} → Returns a Todo
-* PUT /todos/{id} → Overwrites an existing Todo
-* DELETE /todos/{id} → Deletes a Todo
+* GET /todos/v1 → Returns a list of all Todos
+* POST /todos/v1 → Creates a Todo and returns a Todo with id
+* GET /todos/v1/{id} → Returns a Todo
+* PUT /todos/v1/{id} → Overwrites an existing Todo
+* DELETE /todos/v1/{id} → Deletes a Todo
 
 JSON structure of a Todo request is as follows:
 ```shell
@@ -38,7 +38,7 @@ java -jar target/TodoApplication-1.0-SNAPSHOT.jar server todo.yml
 ```
 * Endpoints can be accessed using
   
-  http://localhost:8080/todos
+  http://localhost:8080/todos/v1
   
 
 * Admin operational menu can be accessed using
