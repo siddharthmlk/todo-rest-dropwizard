@@ -10,7 +10,7 @@ It exposes _todo_ resource with following endpoints:
 * DELETE /todos/{id} → Deletes a Todo
 
 JSON structure of a Todo request is as follows:
-```json
+```shell
 {
 id [mandatory]
 name [mandatory]
@@ -42,6 +42,7 @@ java -jar target/TodoApplication-1.0-SNAPSHOT.jar server todo.yml
   
 
 * Admin operational menu can be accessed using
+
   http://localhost:8081
   
 
